@@ -213,5 +213,5 @@ In a production environment, you’d want multiple subnets across different Avai
 [Trello board](https://trello.com/b/YqdasITR/devops-infra-automation)
 
 ### Git
-[Github repository Link](https://github.com/najjaved/devOps-infrastructure-automation)
+[Github repository Link](https://github.com/mirmika/devOps-infrastructure-automation)
 
